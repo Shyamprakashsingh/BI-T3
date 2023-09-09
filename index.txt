@@ -1,0 +1,15 @@
+<doctype! html>
+<meta charset="UTF-8">
+<head><title>Netflix India-Replica
+<link href="last.css" rel="stylesheet" type="text/css">
+</title></head>
+
+  <header><ul><h1 id="logo">NETFLIX</h1>
+    <div class="box"><a href="https://www.netflix.com/in/">Sign In</a></div></ul></header>
+  <section class="center-text"><h1 id="" class="our-story-card-title" data-uia="hero-title">Unlimited movies, TV shows and more.</h1>
+  <h2 id="" class="our-story-card-subtitle" data-uia="our-story-card-subtitle">Watch anywhere. Cancel anytime.</h2>
+  
+  <h3 class="email-form-title">Ready to watch? Enter your email to create or restart your membership.</h3>
+    
+  </section>
+  <ul id="box-2"><li>.</li><li><div class="box-2"><a href="https://www.netflix.com/in/"> Try it now ></a></div></li>
